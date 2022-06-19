@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sheddycole
-- 👀 I’m interested in Python and javascript
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested in Python and Frontend 
+- 🌱 I’m currently learning Python, HTML, CSS, and Javasript
+- 💞️ I’m looking to collaborate on all frontend languages 
 - 📫 How to reach me by email @sheddyrhae@gmail.com
 
 <!---
